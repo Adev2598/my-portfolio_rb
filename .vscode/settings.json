@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/8e3c3e96-7096-425a-b512-9d4b6a743bd2/resourceGroups/portfolioreactbs/providers/Microsoft.Web/sites/portfolioreactbs",
+  "appService.deploySubpath": "my-app\\build"
+}
